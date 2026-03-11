@@ -9,6 +9,7 @@ A tool to visually evaluate NU-WRF output against AmeriFlux observations. You po
 ### The map
 
 The map shows all AmeriFlux stations across CONUS, coloured by IGBP land cover class. The legend is in the top-right corner of the map.
+To see the extent of the NU-WRF domains, you an select the domain in the top bar. This adds a blue (d01) or orange (d02) outline of the domain.
 
 **To look at a station:** just click on it. The two panels on the right will populate with that station's time series and statistics. If no NU-WRF output is available during the observation period of the station, this will be clearly stated.
 
