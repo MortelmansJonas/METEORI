@@ -52,3 +52,5 @@ Once you click a station, the bottom-right panel shows the WRF output and AmeriF
 - Stations outside the current NU-WRF study period still appear on the map but won't have any WRF data behind them.
 - AmeriFlux observations with QC flag > 1 are masked out before computing any statistics.
 - The HTML output embeds all the data as JSON, so it can get large (tens of MB) for a full CONUS run — just something to keep in mind if you're sharing this further.
+
+The code is written with the help of Claude.AI and carefully checked.
